@@ -3,14 +3,15 @@
 ​EpiRenamer ist ein intuitives und leistungsstarkes Umbenennungs-Tool für Mediendateien. Es verfügt über eine einfach zu bedienende Oberfläche, 
 die es Ihnen ermöglicht, schnell Serienepisoden oder andere dateibasierte Inhalte nach Ihren Wünschen zu benennen.
 
-![Das Programm:](/EpiRenamer.PNG)
-
 ​🧐 Einfache Erklärung:
 
 ​Stell dir vor, du hast eine Menge von heruntergeladenen Serienepisoden, die alle kryptische Namen haben wie 
 My.Show.S01E01.GERMAN.720p.HD.mkv, My.Show.S01E02.GERMAN.720p.HD.mkv usw.
 Das EpiRenamer-Programm hilft dir dabei, diese Dateien automatisch in ein sauberes und einheitliches Format umzubenennen, 
 wie z. B. S01E01.mkv, S01E02.mkv etc.
+
+
+![Das Programm:](/EpiRenamer.PNG)
 ​
 
 Wie es funktioniert:
