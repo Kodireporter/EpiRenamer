@@ -1,10 +1,10 @@
-​📝 Kurzbeschreibung
+​📝 Kurzbeschreibung:
 
 ​EpiRenamer ist ein intuitives und leistungsstarkes Umbenennungs-Tool für Mediendateien. Es verfügt über eine einfach zu bedienende Oberfläche, 
 die es Ihnen ermöglicht, schnell Serienepisoden oder andere dateibasierte Inhalte nach Ihren Wünschen zu benennen.
 
 
-​🧐 Einfache Erklärung
+​🧐 Einfache Erklärung:
 
 ​Stell dir vor, du hast eine Menge von heruntergeladenen Serienepisoden, die alle kryptische Namen haben wie 
 My.Show.S01E01.GERMAN.720p.HD.mkv, My.Show.S01E02.GERMAN.720p.HD.mkv usw.
