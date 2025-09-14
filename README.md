@@ -3,6 +3,7 @@
 ​EpiRenamer ist ein intuitives und leistungsstarkes Umbenennungs-Tool für Mediendateien. Es verfügt über eine einfach zu bedienende Oberfläche, 
 die es Ihnen ermöglicht, schnell Serienepisoden oder andere dateibasierte Inhalte nach Ihren Wünschen zu benennen.
 
+![Das Programm:](/EpiRenamer.PNG)
 
 ​🧐 Einfache Erklärung:
 
